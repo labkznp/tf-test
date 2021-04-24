@@ -1,0 +1,6 @@
+.terraform
+secret.tfvars
+access.json
+*.pem
+terraform.tfstate
+terraform.tfstate.backup
