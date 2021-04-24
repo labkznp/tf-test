@@ -1,5 +1,5 @@
 provider "github" {
-    token = "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"
+    token = "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"
 }
 terraform {
     required_providers {
